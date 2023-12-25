@@ -74,6 +74,8 @@
 
 *圖3-1登陸時序圖*
 
+![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/30f38b42-b27c-4a6b-a42b-d7be0c3f7032)
+
 *圖3-3添加車輛資訊時序圖*
 
 *圖3-5查找車輛資訊時序圖*
