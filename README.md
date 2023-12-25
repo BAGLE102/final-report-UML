@@ -65,6 +65,9 @@
 
 ### 2.1.3 用例關係
 
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/14699c03-5bd2-4ba9-809b-94997d26ecd2)
+
+
 # 第三章 面向物件分析
 
 ## 3.1用例實現
@@ -78,6 +81,9 @@
 
 *圖3-3添加車輛資訊時序圖*
 
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/93c7ada6-c9dc-4b9f-8de7-92981c91e53e)
+
+
 *圖3-5查找車輛資訊時序圖*
 
 ![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/37620657-c666-406a-b4e0-2a28d7a264f0)
@@ -87,6 +93,7 @@
 ## 3.2分析類模型
   建立系統的分析類圖，為每個類分配職責、屬性，及對類之間的關係建模
 
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/3f713d31-8a5b-4a70-a00c-2cb9ec249045)
 
 
 
