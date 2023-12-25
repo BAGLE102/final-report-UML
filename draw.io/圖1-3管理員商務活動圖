@@ -1,9 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T13:31:09.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="22.1.11" etag="ekQJfOCGoVjThahls68k" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T13:39:36.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ghQQ5cHNTbtbMilRX7D5" version="22.1.11" type="github">
   <diagram name="第1頁" id="CiZzkXezdYZWcYYUcTHN">
-    <mxGraphModel>
+    <mxGraphModel dx="422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-2" value="輸入帳號" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="260" />
+              <mxPoint x="231" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-20" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7pcc5SEvEqUEaJa2yaV-19">
+          <mxGeometry x="-0.0627" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-3" value="是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="85" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-4" value="輸入密碼" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="310" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="400" />
+              <mxPoint x="230" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v7pcc5SEvEqUEaJa2yaV-17">
+          <mxGeometry x="-0.1056" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-5" value="密碼是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="85" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-7" value="進入系統" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="440" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-8" value="車輛信息管理" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-9" target="v7pcc5SEvEqUEaJa2yaV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-9" value="退出系統" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-1" target="v7pcc5SEvEqUEaJa2yaV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-2" target="v7pcc5SEvEqUEaJa2yaV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-3" target="v7pcc5SEvEqUEaJa2yaV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-4" target="v7pcc5SEvEqUEaJa2yaV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-5" target="v7pcc5SEvEqUEaJa2yaV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-7" target="v7pcc5SEvEqUEaJa2yaV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v7pcc5SEvEqUEaJa2yaV-8" target="v7pcc5SEvEqUEaJa2yaV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7pcc5SEvEqUEaJa2yaV-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="348" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
