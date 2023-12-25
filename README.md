@@ -28,17 +28,17 @@
  ### 1.3 業務模型
 
 #### 1.3.1 業務模型
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/6eeef1f7-beb9-4908-877f-d801e6e39814)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/6eeef1f7-beb9-4908-877f-d801e6e39814)
 
 *圖1-1 業務用例模型*
 
 #### 1.3.2車主商務活動圖
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/fe5e90af-c6b8-49d2-a707-723a744ee6a6)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/fe5e90af-c6b8-49d2-a707-723a744ee6a6)
 
 *圖1-2車主商務活動圖*
 
 #### 1.3.3管理員商務活動圖
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/e65d2c73-c082-4098-9794-18692151779b)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/e65d2c73-c082-4098-9794-18692151779b)
 
 *圖1-3管理員商務活動圖*
 
@@ -70,17 +70,17 @@
 ## 3.1用例實現
   使用順序圖，按B-C-E架構實現每一個用例
 
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/698e4c33-8806-48b3-a4bf-3bbe96d9fb34)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/698e4c33-8806-48b3-a4bf-3bbe96d9fb34)
 
 *圖3-1登陸時序圖*
 
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/30f38b42-b27c-4a6b-a42b-d7be0c3f7032)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/30f38b42-b27c-4a6b-a42b-d7be0c3f7032)
 
 *圖3-3添加車輛資訊時序圖*
 
 *圖3-5查找車輛資訊時序圖*
 
-![業務用例模型](https://github.com/BAGLE102/final-report-UML/assets/146699756/37620657-c666-406a-b4e0-2a28d7a264f0)
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/37620657-c666-406a-b4e0-2a28d7a264f0)
 
 *圖3-6查看車輛資訊時序圖*
 
