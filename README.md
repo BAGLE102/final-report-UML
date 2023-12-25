@@ -77,7 +77,13 @@
 
 *圖3-1登陸時序圖*
 
+![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/828ec306-236b-4113-a7a8-3b9af0babce0)
+
+
+*圖3-2刪除車輛資訊時序圖*
+
 ![image](https://github.com/BAGLE102/final-report-UML/assets/146699756/30f38b42-b27c-4a6b-a42b-d7be0c3f7032)
+
 
 *圖3-3添加車輛資訊時序圖*
 
