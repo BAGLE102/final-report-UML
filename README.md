@@ -104,8 +104,11 @@
 ## 第四章實例介紹
 現在已有實例:鼎高科技-智慧停車場管理系統 和 123股份有限公司-智能化停車場系統
 1.鼎高科技-智慧停車場管理系統
-https://www.telexper.com/cparking-01.html#:~:text=%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88%E5%AE%B9%E6%98%93-,%E5%87%BA%E5%85%A5%E5%8F%A3%E8%87%AA%E5%8B%95%E8%BB%8A%E7%89%8C%E8%BE%A8%E8%AD%98,-%E2%97%8F%2099%25%E8%BE%A8%E8%AD%98%E6%BA%96%E7%A2%BA%E5%BA%A6
+
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/dab53482-a289-4a81-b89d-583656e560fe)
+![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/0df82c33-85c7-47f7-838e-8ea54f803fcc)
+![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/0edb7247-7c6d-4879-b54b-f313925f3884)
+![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/6f6aed88-6e9e-4321-a05a-7dbf30a055f8)
 
 
 
