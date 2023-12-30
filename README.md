@@ -132,6 +132,7 @@
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/b486fc72-a216-4027-bfe6-a359ba1dd09c)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/344b8675-d0d8-40fe-9a6d-3a2826e8b26c)
 
+
 ## 123股份有限公司-標準化停車場系統 
 ## 1-4產品特色
 1.結合傳統演算法及AI深度學習技術所開發的 LPR 及 AI LPR ‚可供各種場域使用的AI智慧空車位偵測導引
