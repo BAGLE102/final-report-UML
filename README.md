@@ -106,9 +106,10 @@
 
 ## 1-1鼎高科技-智慧停車場管理系統
 
-![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/add5f657-0f01-4f52-93fc-73064283c0ab)
+![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/8c3d577c-1420-414f-983e-35dd2a91f0ba)
 
-      可利用車牌、車位、入場時間查詢停車位置並快速導引路線圖，節省尋車時間
+
+    可利用車牌、車位、入場時間查詢停車位置並快速導引路線圖，節省尋車時間
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/0df82c33-85c7-47f7-838e-8ea54f803fcc)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/0edb7247-7c6d-4879-b54b-f313925f3884)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/6f6aed88-6e9e-4321-a05a-7dbf30a055f8)
