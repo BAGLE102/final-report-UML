@@ -131,9 +131,12 @@
 
 ## 1-4產品特色
 
-1.結合傳統演算法及AI深度學習技術所開發的 LPR 及 AI LPR ‚可供各種場域使用的 AI智慧空車位偵測導引‚
+1.結合傳統演算法及AI深度學習技術所開發的 LPR 及 AI LPR ‚可供各種場域使用的 AI智慧空車位偵測導引
+
 2.AI智慧尋車 , AI自動空車位偵測,車牌辨識查詢。 
+
 3.可與各家的停車場設備整合,例如IP Cam 、柵欄機、字幕機、查詢機、收費機等。
+
 4. 除了收費停車場外 , 針對廠辦 、大樓、飯店、遊樂場等提供客製化服務。
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/5789dcf6-493a-4e1c-a3af-f14f87014733)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/4220dab8-8177-4a9b-ba85-200fd0ba0514)
