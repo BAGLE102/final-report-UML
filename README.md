@@ -122,8 +122,11 @@
 ## 1-3 電動車停車位監控系統
 每一電動車車位配置一支IP Cam 及地鎖。
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/31ab1fda-0d47-4d93-802b-652930cf779f)
+
 1.利用車牌辨識，判別要停車之車輛是否是電動車，及時降下地鎖，讓車輛進入。
+
 2.當車輛離開時也要偵測，及時將地鎖升起。 
+
 3.車輛的進出照片，車牌號碼及時間皆紀錄在資料庫，提供查詢。
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/cb11ba68-374d-4765-bc67-183591cf1741)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/b486fc72-a216-4027-bfe6-a359ba1dd09c)
@@ -131,13 +134,14 @@
 
 ## 1-4產品特色
 
-1.結合傳統演算法及AI深度學習技術所開發的 LPR 及 AI LPR ‚可供各種場域使用的 AI智慧空車位偵測導引
 
-2.AI智慧尋車 , AI自動空車位偵測,車牌辨識查詢。 
+1.結合傳統演算法及AI深度學習技術所開發的 LPR 及 AI LPR ‚可供各種場域使用的AI智慧空車位偵測導引
 
-3.可與各家的停車場設備整合,例如IP Cam 、柵欄機、字幕機、查詢機、收費機等。
+2.AI智慧尋車,AI自動空車位偵測,車牌辨識查詢
 
-4. 除了收費停車場外 , 針對廠辦 、大樓、飯店、遊樂場等提供客製化服務。
+3.可與各家的停車場設備整合,例如IP Cam、柵欄機、字幕機、查詢機、收費機等。
+
+4. 除了收費停車場外,針對廠辦、大樓、飯店、遊樂場等提供客製化服務。
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/5789dcf6-493a-4e1c-a3af-f14f87014733)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/4220dab8-8177-4a9b-ba85-200fd0ba0514)
 ![image](https://github.com/BAGLE102/final-report-UML/assets/149245212/14edbd70-4d81-4970-bfad-0c1af69baa34)
